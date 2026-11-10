@@ -1,0 +1,21 @@
+# Environments
+pf_risk_venv/
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Generated on demand (rebuild with `python train.py`)
+artifacts/best_model.joblib
+artifacts/reports/
+plots/report_*.png
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

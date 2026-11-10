@@ -1,0 +1,14 @@
+yfinance>=0.2.54
+arch==7.0.0
+shap==0.46.0
+scipy==1.13.1
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.0
+fastapi==0.111.0
+uvicorn==0.30.0
+streamlit==1.36.0
+matplotlib==3.9.0
+joblib==1.4.2
+pytest==8.2.2
+reportlab==4.2.2
